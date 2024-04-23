@@ -18,5 +18,6 @@ class Mahasiswa{
 class Matakuliah{
     private:
         string kodeMk;
+        string namaMk;
 
 }
